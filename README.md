@@ -26,4 +26,10 @@ This will set up a clean Python environment with all the necessary dependencies 
 
 ### Usage
 
-Play with it! You'll find the features you need and if you want extra features, just ask Claude!
+To start the app, simply run: 
+
+```
+python start_app.py
+```
+
+I won't spoil the fun, but you'll find the features you need and if you want extra features, just ask Claude!
